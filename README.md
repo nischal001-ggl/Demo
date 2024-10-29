@@ -1,4 +1,4 @@
 # Demo
 Initiated Git 
 <br>
-Author- Nischal B J
+Author- Nischal B J (My Name)
